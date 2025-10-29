@@ -1,5 +1,5 @@
-# I'm Alejandro Flores.
-## Geospatial and Data Analyst
+# **Alejandro Flores**
+## *Geospatial and Data Analyst*
  
 👋 Hi, I'm Alejandro Flores — an Urban Planner and Geospatial Data Analyst passionate about using data, code, and maps to understand and improve cities.
 
